@@ -10,3 +10,7 @@
 8. 设置好权重路径`model_weight_path`和预测的图片路径`img_path`就能使用`predict0.py`脚本进行预测了
 9. 在`predict_estimate.py`脚本中导入相同模型，设置测试集路径，进行模型评估
 10. 如果要使用自己的数据集，请按照晶体分类数据集的文件结构进行摆放(即一个类别对应一个文件夹)，并且将训练以及预测脚本中的`num_classes`设置成你自己数据的类别数
+
+所有数据均为实验室自采，使用的蛋白质晶体图片均为溶菌酶结晶所得。
+原始数据集包括蛋白质晶体X射线衍射实验的有关数据放在kaggle上
+（https://www.kaggle.com/datasets/superredworld/crystals-diffraction）
