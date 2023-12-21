@@ -13,4 +13,4 @@
 
 所有数据均为实验室自采，使用的蛋白质晶体图片均为溶菌酶结晶所得。
 原始数据集包括蛋白质晶体X射线衍射实验的有关数据放在kaggle上
-（https://www.kaggle.com/datasets/superredworld/crystals-diffraction）
+download url: https://www.kaggle.com/datasets/superredworld/crystals-diffraction
